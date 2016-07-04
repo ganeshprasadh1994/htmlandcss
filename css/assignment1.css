@@ -1,0 +1,11 @@
+blockquote{
+border:1px solid white;
+text-align: center;
+}
+h1,h3{
+  font-weight: bold;
+}
+div{
+    margin-left:400px;
+  margin-right:400px;
+}
